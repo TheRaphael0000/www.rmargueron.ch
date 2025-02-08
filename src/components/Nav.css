@@ -1,0 +1,10 @@
+nav {
+	text-align: center;
+	padding: 20px;
+	background-color: rgba(245, 245, 245, 0.9);
+	color: rgb(10, 10, 10);
+}
+
+.logo {
+	width: 400px;
+}

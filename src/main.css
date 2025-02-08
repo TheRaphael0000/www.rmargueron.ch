@@ -1,0 +1,17 @@
+html,
+body {
+	font-family: OpenSans;
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+}
+
+body {
+	margin: auto;
+	max-width: 1200px;
+}
+
+@font-face {
+	font-family: OpenSans;
+	src: url("/OpenSans.ttf");
+}
