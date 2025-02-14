@@ -89,10 +89,6 @@ export default function Home() {
 						<p>
 							<a href={`https://${site}`}>{site}</a>
 						</p>
-
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2724.566005260503!2d6.81050879999999!3d46.93091380000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478dde01031a3951%3A0x6cb030c93cc4cd34!2sRue+du+Jordil+4B%2C+2022+Bevaix!5e0!3m2!1sfr!2sch!4v1443276327065">
-							Non-disponible
-						</iframe>
 					</div>
 				</div>
 			</main>
